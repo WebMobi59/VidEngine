@@ -8,7 +8,7 @@ Installation
 =========
 Simply add this repository as a submodule in your repository,
 
-    git submodule add git@github.com:endavid/VidEngine.git VidEngine
+    git submodule add git@github.com:webmobi59/VidEngine.git VidEngine
 
 Then,
 
